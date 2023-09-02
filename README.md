@@ -1,7 +1,7 @@
 
 # Anomaly Detection Using Convolutional Neural Networks
 
-Anomaly detection has been an important industrial application.It involves identifying patterns or instances that deviate significantly from the norm, indicating potential anomalies. Convolutional Neural Networks (CNNs) have proven to be highly effective in image recognition tasks, and their application has been extended to anomaly detection due to their ability to automatically learn features and patterns from data.
+Anomaly detection has been an important application of Convolutional Neural Networks.It involves identifying patterns or instances that deviate significantly from the norm, indicating potential anomalies. Convolutional Neural Networks (CNNs) have proven to be highly effective in image recognition tasks, and their application has been extended to anomaly detection due to their ability to automatically learn features and patterns from data.
 
 # Purpose
 
